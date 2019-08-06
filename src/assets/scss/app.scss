@@ -1,8 +1,10 @@
-@import 'components/dashboard';
-
 // Global
 @import 'global/colors';
 @import 'global/typography';
+@import 'global/layout';
+@import 'global/utility';
 
 // components
+@import 'components/dashboard';
 @import 'components/side-nav';
+@import 'components/page-header';
