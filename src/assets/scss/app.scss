@@ -1,3 +1,6 @@
+@charset "utf-8";
+@import "../../../node_modules/bulma/bulma.sass";
+
 // Global
 @import 'global/colors';
 @import 'global/typography';
@@ -8,3 +11,6 @@
 @import 'components/dashboard';
 @import 'components/side-nav';
 @import 'components/page-header';
+
+@import 'custom';
+ 
